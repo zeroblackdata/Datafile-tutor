@@ -2,4 +2,4 @@ Dalam tahapan ini kita akan belajar menggunakan Github
 
 disini kita akan belajar menggunakan apa itu commit
 
-tahapan selanjutnya adalah menggunakan edit tool di github
+tahapan ketiga menghapus tahapan ke 2
