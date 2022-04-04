@@ -1,0 +1,3 @@
+Dalam tahapan ini kita akan belajar menggunakan Github
+
+disini kita akan belajar menggunakan apa itu commit
